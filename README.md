@@ -23,6 +23,7 @@ Features:
 3.Data Analysis:
 
 - Identified trends using calculated measures and KPIs built with DAX. Example:
+
 Employee Turnover Rate = 
 DIVIDE(
     SUM('Employee Data'[Attrition]),
