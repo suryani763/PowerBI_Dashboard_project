@@ -29,7 +29,6 @@ DIVIDE(
     SUM('Employee Data'[Attrition]),
     COUNTROWS('Employee Data')
   )
-
  - Visualized employee retention patterns using advanced Power BI visuals.
 
 Conclusion:
